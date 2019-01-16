@@ -1,7 +1,10 @@
-function takeANumber(line, name) {
-  line.push(name);
+var startingNumber  = 15;
 
-  return `Welcome, ${name}. You are number ${line.length} in line.`;
+function takeANumber(line) {
+ 
+ 
+ 
+  return `Welcome, you are number line.push()  in line.`;
 }
 
 function nowServing(line) {
